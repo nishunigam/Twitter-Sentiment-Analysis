@@ -44,12 +44,12 @@ python train_model.py
 
 ## 📊 Model Training Details
 ### ✔ Dataset Preprocessing
-✔ Removes special characters using Regex
-✔ Applies stemming for improved classification accuracy
+✔ Removes special characters using Regex  
+✔ Applies stemming for improved classification accuracy  
 ✔ Filters stopwords using NLTK
 ### ✔ Training the Sentiment Model
-✔ Splits data into train-test sets
-✔ Uses TfidfVectorizer for feature extraction
+✔ Splits data into train-test sets  
+✔ Uses TfidfVectorizer for feature extraction  
 ✔ Trains a Logistic Regression classifier
 
 ## 🔑 API Configuration
@@ -66,7 +66,7 @@ ACCESS_SECRET = "your_access_secret"
 This project is open-source under the MIT License.
 
 ## 📞 Contact
-For questions or contributions:
-📧 Email: nishchalanigam6291@gmail.com
+For questions or contributions:  
+📧 Email: nishchalanigam6291@gmail.com  
 🐦 Twitter: @Nishchala17
 
