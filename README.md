@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project analyzes Twitter sentiment using Tweepy (Twitter API) and a trained ML model with TfidfVectorizer & Logistic Regression. It fetches tweets in real time, cleans text, and classifies sentiment via an interactive Streamlit web app.
 
+## Dataset Source
+This project uses a Kaggle dataset for training the sentiment model. You can find it [here](https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download).
+
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
