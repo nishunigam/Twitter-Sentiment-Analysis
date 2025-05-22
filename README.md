@@ -42,15 +42,11 @@ python train_model.py
 ## 📊 Model Training Details
 ### ✔ Dataset Preprocessing
 ✔ Removes special characters using Regex
-
 ✔ Applies stemming for improved classification accuracy
-
 ✔ Filters stopwords using NLTK
 ### ✔ Training the Sentiment Model
 ✔ Splits data into train-test sets
-
 ✔ Uses TfidfVectorizer for feature extraction
-
 ✔ Trains a Logistic Regression classifier
 
 ## 🔑 API Configuration
@@ -61,7 +57,6 @@ API_SECRET = "your_api_secret"
 ACCESS_TOKEN = "your_access_token"  
 ACCESS_SECRET = "your_access_secret"
 ```  
-
 
 
 ## 📜 License
